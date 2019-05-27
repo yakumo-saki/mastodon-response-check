@@ -1,15 +1,22 @@
 {
-  "name": "dartslive-autologin",
-  "version": "0.0.1",
-  "description": "dartslive auto login and get bonus",
+  "name": "webload-speedtest",
+  "version": "1.0.0",
+  "description": "",
   "main": "index.js",
-  "dependencies": {
-    "cypress": "^3.2.0"
-  },
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yakumo-saki/webload-speedtest.git"
+  },
   "author": "",
-  "license": "MIT"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yakumo-saki/webload-speedtest/issues"
+  },
+  "homepage": "https://github.com/yakumo-saki/webload-speedtest#readme",
+  "dependencies": {
+    "puppeteer": "^1.17.0"
+  }
 }
