@@ -1,5 +1,5 @@
 {
-  "name": "webload-speedtest",
+  "name": "mastodon-response-check",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yakumo-saki/webload-speedtest.git"
+    "url": "git+https://github.com/yakumo-saki/mastodon-response-check.git"
   },
-  "author": "",
-  "license": "ISC",
+  "author": "Yakumo Saki <yakumo@ziomatrix.org>",
+  "license": "MIT",
   "bugs": {
-    "url": "https://github.com/yakumo-saki/webload-speedtest/issues"
+    "url": "https://github.com/yakumo-saki/mastodon-response-check/issues"
   },
-  "homepage": "https://github.com/yakumo-saki/webload-speedtest#readme",
+  "homepage": "https://github.com/yakumo-saki/mastodon-response-check#readme",
   "dependencies": {
     "puppeteer": "^1.17.0"
   }
