@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/yakumo-saki/mastodon-response-check#readme",
   "dependencies": {
-    "puppeteer": "^1.17.0"
+    "puppeteer": "^5.0.0"
   }
 }
